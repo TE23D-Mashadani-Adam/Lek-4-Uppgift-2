@@ -1,0 +1,14 @@
+.rubrik{
+    background-color: gray;
+}
+
+.topContainer{
+    display: flex;
+    flex-direction: row;
+    border: solid 3px;
+    padding: 10px;
+    justify-content: space-between;
+}
+.LedigaDagarContainer{
+    
+}
