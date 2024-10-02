@@ -13,8 +13,8 @@ body{
     flex-direction: row;
     border: solid 3px;
     padding: 10px;
-    justify-content: space-between;
     border-radius: 2px;
+    justify-content: space-between;
 }
 ul{
     list-style-type: square;
